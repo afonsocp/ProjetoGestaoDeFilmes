@@ -44,7 +44,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da 
 ## Telas do Sistema e Funcionalidades
 
 ### 1. Tela Inicial - Lista de Filmes
-(Print da tela inicial que mostra a tabela com a lista de todos os filmes)
+![Image](https://github.com/user-attachments/assets/58d61968-7b4d-4303-b581-8f7a3974ed5a)
 
 **Implementação**: 
 - Tabela responsiva usando Bootstrap
@@ -58,7 +58,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da 
 - Botões de ação para cada filme
 
 ### 2. Tela de Cadastro
-(Print do formulário de cadastro de novo filme)
+![Image](https://github.com/user-attachments/assets/3c8f589b-33cb-42ee-9722-5f5515a962db)
 
 **Implementação**:
 - Formulário com validação em tempo real
@@ -72,7 +72,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da 
 - Feedback visual de erros
 
 ### 3. Tela de Edição
-(Print do formulário de edição com dados preenchidos)
+![Image](https://github.com/user-attachments/assets/4ca3686b-2c27-45fd-b9d5-db3924b2add1)
 
 **Implementação**:
 - Formulário idêntico ao de cadastro
@@ -85,7 +85,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da 
 - Mantém ID do filme inalterado
 
 ### 4. Tela de Exclusão
-(Print da tela de confirmação de exclusão)
+![Image](https://github.com/user-attachments/assets/3e5a6e37-495f-4dd5-91e7-d02445a8e2c3)
 
 **Implementação**:
 - Tela de confirmação com dados do filme
@@ -98,7 +98,7 @@ O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da 
 - Opção de cancelamento
 
 ### 5. Funcionalidade de Pesquisa
-(Print da barra de pesquisa em uso)
+![Image](https://github.com/user-attachments/assets/b48f0ccb-e8c0-479f-9921-e7474174c83e)
 
 **Implementação**:
 - Campo de busca por texto
