@@ -19,6 +19,9 @@ O Sistema de Gestão de Filmes é uma aplicação web desenvolvida em ASP.NET Co
 - HTML5/CSS3
 - JavaScript
 
+## Repositório no GitHub:
+https://github.com/afonsocp/ProjetoGestaoDeFilmes
+
 ## Estrutura do Projeto
 O projeto segue a arquitetura MVC (Model-View-Controller) e está organizado da seguinte forma:
 
